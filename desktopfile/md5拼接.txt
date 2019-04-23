@@ -1,0 +1,254 @@
+﻿{ag_id:"AG00000013",app_id:"pyq_76496d46f8cf50254a336449550b06d2",nonce_str:"nonce",uid:"1006019",sign: "57DE18625CFFF5AFA3A3EDF03B6A5FAA"} 
+
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&uid=ʯͷ&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+//保险箱加钱
+ag_id=AG00000013&amount=1000&app_id=pyq_76496d46f8cf50254a336449550b06d2&currency_type=3&nonce_str=nonce&out_trade_no=123455666&quantity=10000&type=1&uid=1005212&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+account_name=xueyuhahaha&ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&password=1234567&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+{ 
+  "ag_id": "AG00000013",	
+  "app_id": "pyq_76496d46f8cf50254a336449550b06d2",
+  "account_name": "xueyuhahaha",
+  "password":"1234567",
+  "nonce_str": "nonce",
+  "sign":"11AEDC3A42081277E0F34567FBE63E4E"
+}
+
+appid=gh_GzycrL3oa0AoYjSc&nonce_str=nonce&timestamp=1534305137&app_secret=W80WAGOZ14FS4YKAZ1GIBL6RLGE5S594
+
+
+
+format=jsonop=1534325655secret=04a0da372e3aa31da2886b5be5cbf7c1
+
+
+
+http://192.168.22.31:902/bindspcode?gid=2000&game_ver=1.0.0.0&op=1534320673&format=json&os=1&sign=101e2b8928ef92f8a7d9effc8883519e&code=111111&token=7m3qZDOGWDgLpAGN2ObS9d
+
+//微信登录绑定代理
+http://192.168.22.31:902/wxlogin?uid=1005212&mobile=123456789&op=1534325655&format=json&sign=8e6c210f29f2ed5aeead2e5292af52a9
+
+format=jsonop=1553678404secret=04a0da372e3aa31da2886b5be5cbf7c1
+http://weixinhall.139game.cn:902/wxlogin?uid=1005212&mobile=123456789&op=1534325655&format=json&sign=8e6c210f29f2ed5aeead2e5292af52a9
+http://192.168.22.31:6002/wxlogin?uid=1005212&unionid=ogJ-K0UdGeLdfCqYrCVC9de5roPI&op=1553678404&format=json&sign=6d072dffc1c9014469f600e0c84ccafd
+
+
+����ֵ��
+{"status":0,"statusnote":"\u6210\u529f","data":{"myspcode":"0","spcode":"0"}}
+
+
+account_name=xueyuhahaha&ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&confirmnewpwd=77777777&newpwd=77777777&nonce_str=nonce&oldpwd=11111111&type=2&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+pyq_76496d46f8cf50254a336449550b06d2
+
+&#x77F3&#x5934
+
+
+
+{
+  "ag_id":"AG00000013",	
+  "app_id":"pyq_76496d46f8cf50254a336449550b06d2",
+  "nonce_str":"nonce",
+  "uid":"1005212"
+  "sign":"EDCDD854AB3636460952683C84D3CF78"
+}
+
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&new_target_uid=0&nonce_str=nonce&service_uid=1003&target_uid=1001&type=1&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&service_uid=1005212&target_uid&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+
+//获取用户状态
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&doudou_uid=12850&nonce_str=nonce&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG0000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&doudou_uid=10512&nonce_str=4250640&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+
+
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&room_code=0&type=2&uid=1006743&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+
+
+//陪打关系
+{
+	"ag_id":"AG00000013",
+	"app_id":"pyq_76496d46f8cf50254a336449550b06d2",
+	"new_target_uid":0,
+	"nonce_str":"nonce",
+	"service_uid":991,
+	"target_uid":993,
+	"type":1,
+	"sign":"E78CEC357DBA5CE393A11D706010CEE0"
+}
+
+
+
+
+
+
+//修改百人牛牛参数
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&max_percent=1000&min_percent=2000&nonce_str=nonce&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&max_percent=2000&min_percent=1000&nonce_str=nonce&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&owner_uid=818&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&kill_player=[]&nonce_str=nonce&win_player=[1005216]&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&kill_player=[]&nonce_str=nonce&room_code=959793&win_player=[1005216]&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&kill_player=[]&nonce_str=nonce&win_player=[1005213, 1005216]&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&kill_player=[]&nonce_str=nonce&win_player=[818, 819]&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+ag_id=AG00000002&app_id=pyq_56181aab02c9b69e89bd5b97fd0c9c26&kill_player=[]&nonce_str=nonce&win_player=[7635665, 7641301, 7640219]&app_secret=2527A97FBECD5ABD6CE70389D3BDE02433961D85
+
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&diss_type=1&nonce_str=nonce&owner_uid=1005213&room_code=965549&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+//豆豆充值
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&count=100&doudou_uid=abcdssss&exchange_reciept=豆豆币兑换游戏币&nonce_str=nonce&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&area_type=2&count=100&doudou_uid=12850&exchange_reciept=豆豆币兑换游戏币&nonce_str=nonce&yun_xin_room_id=123456&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+
+'CALL sp_account_logon_third_party(1,1,"abcdss",0,0,2000,"2.0.0.1","",0,"http://www.dg029988.com/static/1000/images/headicon/m_06.png")'
+
+
+
+//创建房间
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&area_type=641&di_zhu=888&doudou_uid=1005213&nonce_str=nonce&ru_chang=1888&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&area_type=641&di_zhu=888&doudou_uid=1005213&nonce_str=nonce&ru_chang=1888&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG0000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&area_type=230&di_zhu=0&doudou_uid=121824&nonce_str=3087373&ru_chang=300&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+
+
+//获取房间人数
+ag_id=AG00000013&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&area_type=641&doudou_uid=1005216&nonce_str=nonce&room_code=0&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+//第三方id获取用户信息
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&third_id=10512&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+
+AG0000001
+pyq_d297f2a3c24b3a3f242e0cf50eeac4d1
+8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+
+ag_id=AG0000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&count=100&doudou_uid=absss&exchange_reciept=豆豆币兑换游戏币&nonce_str=nonce&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+ag_id=AG0000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&doudou_uid=583090&nonce_str=nonce&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+ag_id=AG0000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&area_type=641&di_zhu=888&doudou_uid=absss&nonce_str=nonce&ru_chang=1888&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+
+//获取创建房间次数
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&begin_time=2019-01-19 10:11:20&doudou_room_id=123456&doudou_uid=12850&end_time=2019-01-19 18:11:20&nonce_str=nonce&query_type=0&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&begin_time=2019-01-19 10:11:20&doudou_room_id=123456&doudou_uid=12850&end_time=2019-01-19 18:11:20&nonce_str=nonce&query_type=0&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+
+
+
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&begin_time=2019-01-19 10:11:20&doudou_uid=12850&end_time=2019-01-19 18:11:20&nonce_str=nonce&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+
+//获取某个玩家兑换记录
+ag_id=AG00000013&app_id=pyq_76496d46f8cf50254a336449550b06d2&begin_time=2019-01-19 10:11:20&doudou_uid=12850&end_time=2019-01-19 18:11:20&nonce_str=nonce&query_type=1&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+ag_id=AG00000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&begin_time=2019-01-28 00:00:00&doudou_uid=12850&end_time=2019-01-29 00:00:00&nonce_str=nonce&query_type=0&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+
+
+//获取抽水和充值
+ag_id=AG00000001&app_id=pyq_d297f2a3c24b3a3f242e0cf50eeac4d1&begin_time=2019-01-28 00:00:00&doudou_room_id=26198096&doudou_uid=885522&end_time=2019-01-29 00:00:00&nonce_str=nonce&query_type=1&app_secret=8A8C8517BB3DF50FA4148AED2D48D991A5CB01FC
+
+
+
+
+
+
+//获取兑换绑定信息
+app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&timestamp=100000&uid=1005212&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+//设置资金密码
+app_id=pyq_76496d46f8cf50254a336449550b06d2&capital_pwd=123456&nonce_str=nonce&timestamp=100000&uid=1005212&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+//绑定支付宝信息
+account_code=1111111111&account_name=吴聪&app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&timestamp=100000&uid=1005212&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+//绑定银行信息
+account_code=1111111111&account_name=吴聪&app_id=pyq_76496d46f8cf50254a336449550b06d2&bank_name=工商银行&nonce_str=nonce&timestamp=100000&uid=1005212&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+//获取最大可兑换数量
+app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&timestamp=100000&uid=1005212&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+
+//请求兑换
+account_id=6225096252625736&account_type=18446744073709551615&amount=10000&app_id=pyq_52bfd5910d78fe5678fef99d509257c8&capital_pwd=25F9E794323B453885F5181F1B624D0B&nonce_str=nonce&timestamp=1555469653&uid=1012223&app_secret=F88C1589DC6866DA729B51D473156C19E9323479
+
+"account_id":"","account_type":,"amount":,"app_id":"","capital_pwd":"","nonce_str":"","sign":"368DE67717D71F3C410F7165AD53EA48","timestamp":,"uid":""}
+
+
+//充值列表请求
+app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&timestamp=100000&app_secret=F861003DA23844D0DDE6D966B2175D06F2445353
+sign=00C3EF821180218E180D7ABA3BAF2D97
+ http://127.0.0.1:8000/agent_mgr/payList?app_id=pyq_76496d46f8cf50254a336449550b06d2&nonce_str=nonce&timestamp=100000&sign=00C3EF821180218E180D7ABA3BAF2D97
+
+//代理充值信息请求
+http://127.0.0.1:8000/agent_mgr/wechat/list?status=0&page=1&size=20&clientId=2000
+
+//充值请求
+
+ http://127.0.0.1:8000/agent_mgr/thirdpart_pay/
+
+
+
+
+//请求是否绑定了推广码
+format=jsonop=100000secret=04a0da372e3aa31da2886b5be5cbf7c1
+sign=328c0889c71673f7e4eae3fc5558b2a8    328C0889C71673F7E4EAE3FC5558B2A8
+http://192.168.22.31:902/wxlogin?uid=1005212&unionid=123456789&format=json&op=100000&sign=328c0889c71673f7e4eae3fc5558b2a8
+
+//请求绑定推广码
+format=jsonop=100000secret=04a0da372e3aa31da2886b5be5cbf7c1
+sign=328c0889c71673f7e4eae3fc5558b2a8    328C0889C71673F7E4EAE3FC5558B2A8
+http://192.168.22.31:902/bindspcode?gid=1000&game_ver=1&op=100000&format=json&os=1&sign=328c0889c71673f7e4eae3fc5558b2a8&code=123456&token=8rBRfLnB1PDLCeUd0roYBN
+
+
+terminalTime=1554088305&msg=您的验证码是123456&mchId=MHjklwe7.m2313dZ&mobile=18682427412&key=Juoo80gf@233mb$nmBN21
+
+16 小写:a1e8f51ca840aba5
+16 大写:A1E8F51CA840ABA5
+32 小写:6320d172b76651ddfba15a8ee7037f8e
+32 大写:6320D172B76651DDFBA15A8EE7037F8E
+
+61a385f7bd9321b8
+61A385F7BD9321B8
+b34aa6ef61a385f7bd9321b8370d93ca
+B34AA6EF61A385F7BD9321B8370D93CA
+
+
+
+
+
+
