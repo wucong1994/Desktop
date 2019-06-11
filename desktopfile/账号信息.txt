@@ -5,7 +5,7 @@ http://p.runinstantapp.cn:7001/static/client_uploads/addpackage.html
 http://p.runinstantapp.cn:7001/static/client_uploads/addsubmodule.html
 域名改为192.168.18.244
 
-karl dianjia123
+karl 298HfF42sf8w34sa
 
 
 黄卓宜(黄卓宜) 03-21 14:36:40
@@ -191,8 +191,6 @@ huangzhuoyi  Dianjia123
 root 
 fdeVEFEV11!
 
- 
-
 
 
 
@@ -224,6 +222,13 @@ http://2k.da-shuaige.com/2000/client_upgrade/submodule/3D412050FE11FA0C09B0CFC01
 
 
 客服微信：ZZYL2019001
+
+
+
+服务器登录
+47.106.74.26
+root: c4qb[tAu5|xY
+端口是11256
 
 
 
