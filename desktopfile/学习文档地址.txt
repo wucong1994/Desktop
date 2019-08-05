@@ -1,0 +1,28 @@
+
+1、django rest framework 教程：
+
+https://www.django.cn/course/show-20.html 
+
+
+2、mysql教程
+
+https://www.runoob.com/mysql/mysql-tutorial.html
+
+
+3、二进制、八进制、十进制、十六进制之间的转换
+
+https://jingyan.baidu.com/article/495ba84109665338b30ede98.html
+
+
+4、django教程
+
+https://code.ziqiangxuetang.com/django/django-install.html
+
+
+5、django rest framework 中文文档
+
+https://q1mi.github.io/Django-REST-framework-documentation/
+
+
+6、c++ static 成员   const成员
+http://c.biancheng.net/view/2230.html
