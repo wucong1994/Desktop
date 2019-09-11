@@ -25,4 +25,19 @@ https://q1mi.github.io/Django-REST-framework-documentation/
 
 
 6、c++ static 成员   const成员
+
 http://c.biancheng.net/view/2230.html
+
+
+7、linux查看整个根目录下各个文件占用情况
+
+https://blog.csdn.net/z13615480737/article/details/78982177
+
+
+8、mysql教程
+
+https://www.runoob.com/mysql/mysql-tutorial.html
+
+
+9、C/C++程序员必须熟悉的开源库
+https://blog.csdn.net/u014805066/article/details/56277467
