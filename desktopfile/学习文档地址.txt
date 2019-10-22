@@ -41,3 +41,9 @@ https://www.runoob.com/mysql/mysql-tutorial.html
 
 9、C/C++程序员必须熟悉的开源库
 https://blog.csdn.net/u014805066/article/details/56277467
+
+10、redis学习
+https://www.php.cn/manual/view/36359.html
+
+11、php中文网
+https://www.php.cn/
