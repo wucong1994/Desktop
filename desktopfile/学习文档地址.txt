@@ -47,3 +47,6 @@ https://www.php.cn/manual/view/36359.html
 
 11、php中文网
 https://www.php.cn/
+
+12、linux批量查找修改文件内容
+https://blog.csdn.net/qq_21101587/article/details/81203767
