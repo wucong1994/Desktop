@@ -62,3 +62,13 @@ https://github.com/cloudwu/skynet
 
 16、window7 部署apache+django
 https://blog.csdn.net/qingyuanluofeng/article/details/44060533
+
+17、python 中文文档下载
+https://docs.python.org/zh-cn
+
+18、redis命令大全
+http://redis.io/commands
+
+19、celery中文文档
+http://docs.jinkan.org/docs/celery/getting-started/first-steps-with-celery.html#first-steps
+
