@@ -77,6 +77,7 @@ dev
 
 分享页：http://hall.vk520.com:7002/static/1000/mobile/share.htm
 下载页：http://hall.vk520.com:7002/static/1000/mobile/downloads.htm
+http://hall.vk520.com:7003/static/api/strategy_list.html
 
 
 http://hall.vk520.com:7001/admin  dijango管理
@@ -224,18 +225,156 @@ http://2k.da-shuaige.com/2000/client_upgrade/submodule/3D412050FE11FA0C09B0CFC01
 客服微信：ZZYL2019001
 
 
-
-服务器登录
+服务器登录  国内正式服
 47.106.74.26
-root: c4qb[tAu5|xY
+dev_huangzhuoyi
+c4qb[tAu5|xY
+sudo su -
+
 端口是11256
+
+
+
+
+
+
 
 
 更换后的跳板机
 adm2xoy9AKJiDxPor  /  LI7lnOO50&2ZG5Rh3XK3t@0#$PYENEw@V$J1o#&wkn6YI88Tg       39.108.90.30
 
 
+SVN 账号： wucong 密码： wcdt1020 昵称： 吴聪 部门： 服务端
+ http://192.168.1.100:4040/setpass
+
+
+120.79.168.100:11256   国内正式服?
+huangzhuoyi 
+Qp@2116&Tsv%(
+root 需要sudo su,输入 Qp@2116&Tsv%(
 
 
 
+
+
+本地mysql
+root wcdt1020
+
+danny wcdt1020
+
+
+
+git地址:http://192.168.37.14/
+
+测试服  37.13在git上的账号密码 wucong1994  12345678
+
+
+
+
+重置密码： https://secure.ubox.cn/ubox-sso/smspwd 
+修改密码： http://password.ubox.cn 
+登录地址： https://secure.ubox.cn/ubox-sso/login
+
+
+wangzihao
+ybk123123  废弃
+
+
+wangzihao
+r7w7Sh$V
+
+
+Splash:
+跳板机 IP: 47.94.146.14 port: 8855
+
+Splash:
+10.10.17.83
+
+
+刚创建的项目服务器是: aliyun-beijing-ubake01  / 10.10.17.83
+
+
+su ubox
+password  :    ubox2012
+
+
+
+
+
+
+漂浮
+服务器：http://runinstantapp.com:8088/floopy/
+客户端：http://runinstantapp.com:8088/floopy_client/
+
+
+
+
+pro环境:
+
+线上账号：ybk_backend/wGvtcHnbKguWTNtWC5O6
+backend_robot/ulZI3laYL8TE1CKqzrAl 读写权限
+线上地址：ubox-common.mysql.rds.aliyuncs.com:3306
+
+只读地址办公环境可连：ubox-common-ro-pub.mysql.rds.aliyuncs.com:3306
+wucong/9HZamqMX894exTJH
+
+//pro redis
+r-2zexqh37lb04liyo51pd.redis.rds.aliyuncs.com
+
+
+
+redis 
+ubake.redis.uboxol.com  /  RJ5Bg6gFrJXuUcvzzzvB
+
+
+
+服务器
+http://ybk.uboxol.com/account/ybk_auth/
+
+客户端
+http://ybkh5.uboxol.com/index.html
+
+
+ybkh5.dev.uboxol.com   ybk.dev.uboxol.com
+
+测试环境数据库
+IP:192.168.19.29 
+user: ybk_backend
+password: Fi80iCMumomTajrNHsGg
+backend_robot/ulZI3laYL8TE1CKqzrAl 读写权限
+测试环境redis:
+IP: 192.168.19.205
+password: ubox
+
+ redis-cli   -h 192.168.19.205  -a ubox
+ 
+ 
+ 192.168.19.54   wucong 8855
+ 
+ 是的虚拟环境：
+ 先切换环境功能 source /ubox/apps/ybk_backend/venv/bin/activate
+ 
+ 
+ redis地址 redis02.test.ubox 端口6379 密码ubox.  db 5
+
+ 
+ git 登录地址：
+ https://git.uboxol.com/users/sign_in
+
+ 
+ 
+ 生产环境图片地址
+ http://img.ubox.cn/ybk_backend
+ 
+ 
+ 
+ 内网： inter项目数据库
+ubox-common.mysql.rds.aliyuncs.com
+ybk_inter/49sTSKD89WvdgH2nC5tn
+
+办公环境：
+ubox-common-ro-pub.mysql.rds.aliyuncs.com
+huangzhuoyi/hN65HIJ9gYl6TGIrr2Yc
+ 
+ 
 
