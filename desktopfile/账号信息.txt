@@ -312,7 +312,7 @@ password  :    ubox2012
 pro环境:
 
 线上账号：ybk_backend/wGvtcHnbKguWTNtWC5O6
-backend_robot/ulZI3laYL8TE1CKqzrAl 读写权限
+backend_robot/ulZI3laYL8TE1CKqzrAl 读写权限 robot库
 线上地址：ubox-common.mysql.rds.aliyuncs.com:3306
 
 只读地址办公环境可连：ubox-common-ro-pub.mysql.rds.aliyuncs.com:3306
