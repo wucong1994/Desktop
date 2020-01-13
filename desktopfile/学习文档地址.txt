@@ -1,1 +1,77 @@
-<attachment contenteditable="false" data-atts="%5B%5D" data-aid=".atts-6952ac94-ab0c-4dd9-adbe-c1cd50d3f540"></attachment><p>1ï¿½ï¿½django rest framework ï¿½Ì³Ì£ï¿½ https://www.django.cn/course/show-20.html 2ï¿½ï¿½mysqlï¿½Ì³ï¿½ https://www.runoob.com/mysql/mysql-tutorial.html 3ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¡ï¿½ï¿½Ë½ï¿½ï¿½Æ¡ï¿½Ê®ï¿½ï¿½ï¿½Æ¡ï¿½Ê®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö®ï¿½ï¿½ï¿½×ªï¿½ï¿½ https://jingyan.baidu.com/article/495ba84109665338b30ede98.html 4ï¿½ï¿½djangoï¿½Ì³ï¿½ https://code.ziqiangxuetang.com/django/django-install.html 5ï¿½ï¿½django rest framework ï¿½ï¿½ï¿½ï¿½ï¿½Äµï¿½ https://q1mi.github.io/Django-REST-framework-documentation/ 6ï¿½ï¿½c++ static ï¿½ï¿½Ô± constï¿½ï¿½Ô± http://c.biancheng.net/view/2230.html 7ï¿½ï¿½linuxï¿½é¿´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿Â¼ï¿½Â¸ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½Õ¼ï¿½ï¿½ï¿½ï¿½ï¿½ https://blog.csdn.net/z13615480737/article/details/78982177 8ï¿½ï¿½mysqlï¿½Ì³ï¿½ https://www.runoob.com/mysql/mysql-tutorial.html 9ï¿½ï¿½C/C++ï¿½ï¿½ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¤ï¿½Ä¿ï¿½Ô´ï¿½ï¿½ https://blog.csdn.net/u014805066/article/details/56277467 10ï¿½ï¿½redisÑ§Ï° https://www.php.cn/manual/view/36359.html 11ï¿½ï¿½phpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ https://www.php.cn/ 12ï¿½ï¿½linuxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ¸ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ https://blog.csdn.net/qq_21101587/article/details/81203767 13 pychram ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ http://idea.medeming.com/jet/ 14ï¿½ï¿½pythonï¿½ï¿½ï¿½Ñ§Ï° https://edu.csdn.net/notebook/python/week01/2.html 15ï¿½ï¿½skynet git https://github.com/cloudwu/skynet 16ï¿½ï¿½window7 ï¿½ï¿½ï¿½ï¿½apache+django https://blog.csdn.net/qingyuanluofeng/article/details/44060533 17ï¿½ï¿½python ï¿½ï¿½ï¿½ï¿½ï¿½Äµï¿½ï¿½ï¿½ï¿½ï¿½ https://docs.python.org/zh-cn 18ï¿½ï¿½redisï¿½ï¿½ï¿½ï¿½ï¿½È« http://redis.io/commands 19ï¿½ï¿½celeryï¿½ï¿½ï¿½ï¿½ï¿½Äµï¿½ http://docs.jinkan.org/docs/celery/getting-started/first-steps-with-celery.html#first-steps</p><p><br></p>
+
+1¡¢django rest framework ½Ì³Ì£º
+
+https://www.django.cn/course/show-20.html 
+
+
+2¡¢mysql½Ì³Ì
+
+https://www.runoob.com/mysql/mysql-tutorial.html
+
+
+3¡¢¶þ½øÖÆ¡¢°Ë½øÖÆ¡¢Ê®½øÖÆ¡¢Ê®Áù½øÖÆÖ®¼äµÄ×ª»»
+
+https://jingyan.baidu.com/article/495ba84109665338b30ede98.html
+
+
+4¡¢django½Ì³Ì
+
+https://code.ziqiangxuetang.com/django/django-install.html
+
+
+5¡¢django rest framework ÖÐÎÄÎÄµµ
+
+https://q1mi.github.io/Django-REST-framework-documentation/
+
+
+6¡¢c++ static ³ÉÔ±   const³ÉÔ±
+
+http://c.biancheng.net/view/2230.html
+
+
+7¡¢linux²é¿´Õû¸ö¸ùÄ¿Â¼ÏÂ¸÷¸öÎÄ¼þÕ¼ÓÃÇé¿ö
+
+https://blog.csdn.net/z13615480737/article/details/78982177
+
+
+8¡¢mysql½Ì³Ì
+
+https://www.runoob.com/mysql/mysql-tutorial.html
+
+
+9¡¢C/C++³ÌÐòÔ±±ØÐëÊìÏ¤µÄ¿ªÔ´¿â
+https://blog.csdn.net/u014805066/article/details/56277467
+
+10¡¢redisÑ§Ï°
+https://www.php.cn/manual/view/36359.html
+
+11¡¢phpÖÐÎÄÍø
+https://www.php.cn/
+
+12¡¢linuxÅúÁ¿²éÕÒÐÞ¸ÄÎÄ¼þÄÚÈÝ
+https://blog.csdn.net/qq_21101587/article/details/81203767
+
+13 pychram ¼¤»îÂëÏÂÔØ
+http://idea.medeming.com/jet/
+
+14¡¢pythonÏà¹ØÑ§Ï°
+https://edu.csdn.net/notebook/python/week01/2.html
+
+15¡¢skynet git
+https://github.com/cloudwu/skynet
+
+16¡¢window7 ²¿Êðapache+django
+https://blog.csdn.net/qingyuanluofeng/article/details/44060533
+
+17¡¢python ÖÐÎÄÎÄµµÏÂÔØ
+https://docs.python.org/zh-cn
+
+18¡¢redisÃüÁî´óÈ«
+http://redis.io/commands
+
+19¡¢celeryÖÐÎÄÎÄµµ
+http://docs.jinkan.org/docs/celery/getting-started/first-steps-with-celery.html#first-steps
+
+20¡¢pythonÖÐÎÄÎÄµµ
+https://docs.python.org/zh-cn/3.7/
+
