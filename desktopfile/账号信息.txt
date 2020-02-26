@@ -8,47 +8,6 @@ http://p.runinstantapp.cn:7001/static/client_uploads/addsubmodule.html
 karl 298HfF42sf8w34sa
 
 
-黄卓宜(黄卓宜) 03-21 14:36:40
-SVN 账号： huangzhuoyi 密码： 2589789 昵称： 黄卓宜 部门： 开发部
-SVN 账号： huangwei 密码： 2589785 昵称： 黄伟 部门： 产品
-SVN 账号： sunbo 密码： 25487855 昵称： 孙波 部门： 开发部
-SVN 账号： wucong 密码： 125487955 昵称： 吴聪 部门： 开发部
-http://192.168.1.100:4040/setpass
-修改密码的链接
-http://192.168.5.100/q_mj/new/ 文档上传到这里
-
-
-
-  <!-- 短信验证码接口相关配置 -->
-   <mobile_msg 
-   send_url="http://127.0.0.1:7001/api/send_verification_code/" 
-   check_url="http://127.0.0.1:7001/api/check_verification_code/" 
-   sign_name="有货小程序" 
-   platform="mypoker" 
-   template_code="SMS_123796706"
-   />
-
-
-
-# 阿里云短信
-ALI_REGION = b"cn-hangzhou"
-ALI_ACCESS_KEY_ID = b"LTAIpbsBCu3re95L"
-ALI_ACCESS_KEY_SECRET = b"JNbsq5aW6RMGnZJIp1O1v5J4DsS3N9"
-ALI_SMS_SIGN_NAME = b"有货小程序"
-ALI_SMS_TEMPLATE_CODE = b"SMS_123796706"
-ALI_SMS_PLATFORM = b"mypoker"
-
-
-RAM用户子账号登录链接 http://signin.aliyun.com/1122421602257000/login.htm
-huangzhuoyi@1122421602257000
-mykj@321
-
-
-数据库登陆：rm-wz95o76674mpzx5r6.mysql.rds.aliyuncs.com:3306
-高权限账号：super
-密码：mykj@321
-
-
 自己的邮箱：wucong@mykjgame.com
 
 
@@ -69,45 +28,11 @@ dev
 112790
 3309
 
-
-
-
-
-
-
-分享页：http://hall.vk520.com:7002/static/1000/mobile/share.htm
-下载页：http://hall.vk520.com:7002/static/1000/mobile/downloads.htm
 http://hall.vk520.com:7003/static/api/strategy_list.html
 
 
 http://hall.vk520.com:7001/admin  dijango管理
 magnate my123.com
-
-
-
-
-   a. 用户信息查询(用户注册时间，最后登录时间，IP，地区，用户拥有金币）
-   b. 用户消费记录列表（可按用户ID或名称查询）
-   c. 向用户发放货币（共三种）
-   d. 封号+踢下线
-   e. 发布公告信息
-
-
-http://192.168.18.244:7001/api/ip_info/
-{
-	"ip":["211.151.209.210","113.116.88.127"],
-	"state":134324
-}
-
-
-192.168.1.119
-root
-Mykj@2018
-
-
-
-112.74.172.17   37070
-正式服
 
 
 外网更新上传FTP
@@ -116,27 +41,10 @@ pubilc
 7c3P81Hc
 
 
-提现相关：
-http://192.168.18.92:18765/api/os/swagger-ui.html#/player-controller 
-appId=gh_GzycrL3oa0AoYjSc #应用id
-secretKey=W80WAGOZ14FS4YKAZ1GIBL6RLGE5S594 # 签名
-
-
-
 IP：47.106.73.71   海外版测试服服务器
 端口：22
 账号/密码：root/root1+1!=100
 ---------------------------
-
-
-
-
-http请求相关地址
-http://api.c2fos.cn/sendSms/
-http://api.c2fos.cn/swagger-ui.html  
-http://api.c2fos.cn/api/os/ + 接口
-http://api.c2fos.cn/api/os/swagger-ui.html
-
 
 
 IP：58.64.200.233  海外正式服
@@ -151,21 +59,6 @@ ssh root@58.64.200.233 -p22002 放机器人的
 
 http://admin.dg049988.com
 帐号/密码：webadmin/123456
-
-
-
-https://admin.mygame9988.com
-账号/密码：9272566237 / 2zhlmcl1hbl@QT
-我们管理后台的账号，你登录上来看一下数据统计
-
-
-244外网ip 119.123.224.151
-
-
-'http://download.1234663.cn/';
-
-
-http://reg.n61s.cn/home/agent_hallon/register?flat=1 正式服账号密码注册地址
 
 
 192.168.18.246   root 666666
@@ -236,10 +129,6 @@ sudo su -
 
 
 
-
-
-
-
 更换后的跳板机
 adm2xoy9AKJiDxPor  /  LI7lnOO50&2ZG5Rh3XK3t@0#$PYENEw@V$J1o#&wkn6YI88Tg       39.108.90.30
 
@@ -251,7 +140,7 @@ SVN 账号： wucong 密码： wcdt1020 昵称： 吴聪 部门： 服务端
 120.79.168.100:11256   国内正式服?
 huangzhuoyi 
 Qp@2116&Tsv%(
-root 需要sudo su,输入 Qp@2116&Tsv%(
+root 需要sudo su|输入 Qp@2116&Tsv%(
 
 
 
@@ -274,10 +163,6 @@ git地址:http://192.168.37.14/
 重置密码： https://secure.ubox.cn/ubox-sso/smspwd 
 修改密码： http://password.ubox.cn 
 登录地址： https://secure.ubox.cn/ubox-sso/login
-
-
-wangzihao
-ybk123123  废弃
 
 
 wangzihao
@@ -375,6 +260,22 @@ ybk_inter/49sTSKD89WvdgH2nC5tn
 办公环境：
 ubox-common-ro-pub.mysql.rds.aliyuncs.com
 huangzhuoyi/hN65HIJ9gYl6TGIrr2Yc
+
+
+ci：http://ci.uboxol.com
  
  
+ vpn
+登录地址：https://secure.ubox.cn/ubox-sso/login
+修改密码：http://password.ubox.cn  
+VPN链接：https://zb.vpn.ubox.cn/
+
+友宝vpn账号：wucong  WCPdt1020
+
+账号权限：
+1.VPN访问内网 
+2. 源码管理系统（gitlab）
+3. 代码构建系统(ci)
+
+
 
