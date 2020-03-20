@@ -121,7 +121,7 @@ http://2k.da-shuaige.com/2000/client_upgrade/submodule/3D412050FE11FA0C09B0CFC01
 服务器登录  国内正式服
 47.106.74.26
 dev_huangzhuoyi
-c4qb[tAu5|xY
+Txy@2019MY&%$PH(?
 sudo su -
 
 端口是11256
@@ -146,6 +146,8 @@ root 需要sudo su|输入 Qp@2116&Tsv%(
 
 
 
+
+
 本地mysql
 root wcdt1020
 
@@ -165,32 +167,23 @@ git地址:http://192.168.37.14/
 登录地址： https://secure.ubox.cn/ubox-sso/login
 
 
-wangzihao
-r7w7Sh$V
-
-
-Splash:
-跳板机 IP: 47.94.146.14 port: 8855
-
-Splash:
-10.10.17.83
-
-
-刚创建的项目服务器是: aliyun-beijing-ubake01  / 10.10.17.83
-
-
-su ubox
-password  :    ubox2012
-
-
-
-
+192.168.37.12   root/666666
 
 
 漂浮
 服务器：http://runinstantapp.com:8088/floopy/
 客户端：http://runinstantapp.com:8088/floopy_client/
 
+wangzihao
+r7w7Sh$V
+
+
+正式服shell连接
+跳板机 IP: 47.94.146.14 port: 8855
+10.10.17.83
+刚创建的项目服务器是: aliyun-beijing-ubake01  / 10.10.17.83
+su ubox
+password  :    ubox2012
 
 
 
@@ -234,6 +227,7 @@ password: ubox
  redis-cli   -h 192.168.19.205  -a ubox
  
  
+测试环境shell连接:
  192.168.19.54   wucong 8855
  
  是的虚拟环境：
@@ -275,7 +269,7 @@ VPN链接：https://zb.vpn.ubox.cn/
 账号权限：
 1.VPN访问内网 
 2. 源码管理系统（gitlab）
-3. 代码构建系统(ci)
+3. 代码构建系统(ci)		   
 
 
 
